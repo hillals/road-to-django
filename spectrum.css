@@ -1,0 +1,30 @@
+h2{
+    text-align: center;
+    font-family: 'CagliostroRegular';
+    font-weight: normal;
+    font-style: normal;
+}
+table{
+    margin: auto;
+}
+div{
+    border: 4px solid white;
+    height: 400px;
+    width: 200px;
+    padding: 5px;
+}
+#first{
+    background-color: #EFEFEF;
+}
+#second{
+    background-color: #3454D1;
+}
+#third{
+    background-color: #34D1BF;
+}
+#fourth{
+    background-color: #070707;
+}
+#fifth{
+    background-color: #D1345B;
+}
