@@ -1,0 +1,25 @@
+body{
+    background-color: #010048;
+    font-family: 'Libertinaget';
+    font-weight: normal;
+    font-style: normal;
+    color: white;
+    text-align: center;
+    border: 40px solid grey;
+    border-top: 0px;
+    margin: 0px;
+    margin-top: 20px;
+}
+p{
+    padding-left: 10%;
+    padding-right: 10%;
+}
+form{
+    font-size: 1.25em;
+}
+#signupbtn{
+    background-color:blueviolet;
+    margin-top: 15px;
+    font-size: 1em;
+    border-radius: 5px;
+}
